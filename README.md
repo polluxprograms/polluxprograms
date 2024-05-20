@@ -7,5 +7,6 @@ A few things about me...
 - 🖥️ Desktop ricer
 - 📝 Neovim enjoyer
 - 🎶 Lapfox fanatic
+- ☕ Coffee lover
 
 $$\color{gray}There's \text{ }\text{ } no \text{ }\text{ } place \text{ }\text{ } like \text{ }\text{ } \sim$$
